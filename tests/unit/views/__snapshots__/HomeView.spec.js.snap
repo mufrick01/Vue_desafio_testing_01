@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<HomeView/> el componente debe coincidir con el snapshot 1`] = `
+<div class="home"><img alt="Vue logo" src="">
+  <posts-view-stub></posts-view-stub>
+</div>
+`;
